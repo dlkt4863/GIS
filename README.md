@@ -8,4 +8,4 @@
 # EP02
 ## Beispiel 2
 ### Monitoring-Soziale-Stadtentwicklung
-![enter image description here]([chrome://global/skin/media/imagedoc-lightnoise.png](https://raw.githubusercontent.com/dlkt4863/GIS/refs/heads/main/berlin_lor_bev2019.png))
+![enter image description here](https://raw.githubusercontent.com/dlkt4863/GIS/refs/heads/main/berlin_lor_bev2019.png))
